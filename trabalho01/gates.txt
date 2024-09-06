@@ -1,0 +1,16 @@
+gnand: gate NAND de duas entradas                           DONE
+gnot: gate NOT de uma entrada                               DONE
+gand: gate AND de duas entradas                             DONE
+gor: gate OR de duas entradas                               DONE
+gxor: gate XOR de duas entradas                             DONE
+mux: multiplexador de duas entradas de 1 bit                DONE
+dmux: demultiplexador de duas saídas de 1 bit               DONE
+gnot16: porta NOT com duas entradas de 16 bits              DONE
+gand16: porta AND com duas entradas de 16 bits              DONE
+gor16: porta OR com duas entradas de 16 bits                DONE
+mux16: multiplexador de duas entradas de 16 bits            DONE
+or8way: porta OR com 8 entradas                             DONE
+mux4way16: multiplexador de 4 entradas de 16 bits           DONE
+mux8way16 multiplexador de 8 entradas de 16 bits            DONE
+dmux4way: demultiplexador de 4 saídas de 1 bit              DONE
+dmux8way: demultiplexador de 8 saídas de 1 bit              DONE
